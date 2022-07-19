@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ### Latest Posts from medium
 
-- Create GraphQL API using AWS AppSync
-  https://medium.com/@beulamercie/design-graphql-api-using-aws-appsync-service-via-sam-template-e800d249038
+[Create GraphQL API using AWS AppSync](https://medium.com/@beulamercie/design-graphql-api-using-aws-appsync-service-via-sam-template-e800d249038)
 
-- Create Alexa Custom Skill
-  https://medium.com/@beulamercie/create-an-alexa-skill-and-host-the-custom-skill-as-a-web-service-e1abd3f40d89
+[Create Alexa Custom Skill](https://medium.com/@beulamercie/create-an-alexa-skill-and-host-the-custom-skill-as-a-web-service-e1abd3f40d89)
